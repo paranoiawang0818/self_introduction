@@ -218,8 +218,7 @@ export const content: Record<Language, SiteContent> = {
           description:
             '基于 Python 构建自动化采集脚本，整合 15+ 个国内外 AI RSS 信息源，生成适配邮件阅读的结构化内容。',
           points: ['抓取、过滤、整合 AI 资讯', '输出标题、摘要、详细内容与启示', '通过 GitHub Actions + SMTP 定时推送'],
-          tags: ['Python', 'GitHub Actions', 'RSS', 'SMTP', 'HTML'],
-          href: 'https://github.com/paranoiawang0818/ai-news-collector'
+          tags: ['Python', 'GitHub Actions', 'RSS', 'SMTP', 'HTML']
         },
         {
           title: '晦明·Deeptalk',
@@ -440,8 +439,7 @@ export const content: Record<Language, SiteContent> = {
           description:
             'A Python automation workflow that aggregates 15+ Chinese and international AI RSS sources and turns them into email-friendly structured briefings.',
           points: ['Fetch, filter, and organize AI news', 'Output titles, summaries, detailed content, and takeaways', 'Schedule delivery with GitHub Actions and SMTP'],
-          tags: ['Python', 'GitHub Actions', 'RSS', 'SMTP', 'HTML'],
-          href: 'https://github.com/paranoiawang0818/ai-news-collector'
+          tags: ['Python', 'GitHub Actions', 'RSS', 'SMTP', 'HTML']
         },
         {
           title: 'Huiming Deeptalk',
