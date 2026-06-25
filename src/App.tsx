@@ -458,7 +458,7 @@ function Contact({ copy }: { copy: SiteContent }) {
             <MessageCircle className="h-5 w-5 text-accent" aria-hidden="true" />
           </div>
           <div className="qr-frame">
-            <img src="/assets/qrcode.jpg" alt="WeChat QR code" loading="lazy" />
+            <img src="assets/qrcode.jpg" alt="WeChat QR code" loading="lazy" />
           </div>
         </aside>
       </div>

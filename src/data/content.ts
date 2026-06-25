@@ -110,15 +110,15 @@ export type SiteContent = {
 };
 
 const sharedPhotos = [
-  { src: '/assets/photo1.jpg', alt: '生活照片 1' },
-  { src: '/assets/photo2.jpg', alt: '生活照片 2' },
-  { src: '/assets/photo3.jpg', alt: '生活照片 3' },
-  { src: '/assets/photo4.jpg', alt: '生活照片 4' },
-  { src: '/assets/photo5.jpg', alt: '生活照片 5' },
-  { src: '/assets/photo6.jpg', alt: '生活照片 6' },
-  { src: '/assets/photo7.jpg', alt: '生活照片 7' },
-  { src: '/assets/photo8.jpg', alt: '生活照片 8' },
-  { src: '/assets/photo9.jpg', alt: '生活照片 9' }
+  { src: 'assets/photo1.jpg', alt: '生活照片 1' },
+  { src: 'assets/photo2.jpg', alt: '生活照片 2' },
+  { src: 'assets/photo3.jpg', alt: '生活照片 3' },
+  { src: 'assets/photo4.jpg', alt: '生活照片 4' },
+  { src: 'assets/photo5.jpg', alt: '生活照片 5' },
+  { src: 'assets/photo6.jpg', alt: '生活照片 6' },
+  { src: 'assets/photo7.jpg', alt: '生活照片 7' },
+  { src: 'assets/photo8.jpg', alt: '生活照片 8' },
+  { src: 'assets/photo9.jpg', alt: '生活照片 9' }
 ];
 
 export const content: Record<Language, SiteContent> = {
